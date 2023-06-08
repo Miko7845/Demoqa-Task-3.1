@@ -1,0 +1,16 @@
+{
+  "Url": "https://demoqa.com/",
+  "CurrentBrowser": "Chrome",
+  "ChromeOption": {
+    "Name": "Chrome"
+  },
+  "FirefoxOption": {
+    "Name": "Firefox"
+  },
+  "ExplicitWait": {
+    "Hours": 0,
+    "Minutes": 0,
+    "Seconds": 5
+  },
+  "LogFilePath": "Utilities\\Logs\\logs.txt"
+}

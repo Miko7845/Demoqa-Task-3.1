@@ -1,0 +1,12 @@
+{
+  "NestedFrames": {
+    "ParentFrameText": "Parent frame",
+    "ChildFrameText": "Child Iframe"
+  },
+  "Alerts": {
+    "ToSeeAlert": "You clicked a button",
+    "ConfirmBox": "Do you confirm action?",
+    "ConfirmText": "You selected Ok",
+    "PromptBoxText": "Please enter your name"
+  }
+}
